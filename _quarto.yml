@@ -13,8 +13,9 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - pulse
+      - pulse
+      - pulse
     css: styles.css
     toc: true
 
