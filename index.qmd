@@ -1,5 +1,18 @@
 ---
-title: "Jason Coupet"
+title: "Jason Coupet, PhD"
+image: "C:\Users\Jason\OneDrive\Pictures\headshot 2.jpg"
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/jason-coupet-00589265/
+    - text: GitHub
+      href: https://github.com/jcoupet
+    - text: Email
+      href: mailto:jcoupet@gsu.edu
 ---
 
 I am an Associate Professor of Public Management and Policy in the Andrew Young School for Policy Studies at Georgia State University. My Ph.D. is in Strategic Management from the University of Illinois at Chicago, and his BA is in Economics from the University of Michigan. I have served on the Executive Board of ARNOVA, the APPAM Policy Council, and on the board of the Public Management Research Association.
