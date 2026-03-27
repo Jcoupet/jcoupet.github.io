@@ -1,7 +1,6 @@
 ---
-title: "Jason Coupet, PhD"
+title: "Jason Coupet"
 image: "C:\Users\Jason\OneDrive\Pictures\headshot 2.jpg"
-toc: false
 about: 
   template: jolla
   image-shape: round
