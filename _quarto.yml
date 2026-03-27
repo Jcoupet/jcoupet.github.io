@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jcoupet.github.io"
+  title: "Jason Coupet, PhD"
   navbar:
     left:
       - href: index.qmd
