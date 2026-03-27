@@ -3,7 +3,7 @@ title: "Jason Coupet"
 image: images/headshot 2.jpg
 about: 
   template: jolla
-  image-shape: round
+  image-shape: rounded
   image-width: 17em
   links:
     - text: LinkedIn
