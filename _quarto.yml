@@ -9,6 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Research.qmd
+      - Courses.qmd
+      - Blog.qmd
+      - Illicit Market Study.qmd
 
 format:
   html:
