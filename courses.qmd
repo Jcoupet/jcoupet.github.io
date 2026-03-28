@@ -1,5 +1,5 @@
 ---
-title: "courses"
+title: "Courses"
 format: html
 ---
 
