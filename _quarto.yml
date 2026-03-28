@@ -8,18 +8,17 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
       - Research.qmd
       - Courses.qmd
-      - Blog.qmd
       - Illicit Market Study.qmd
+      - Blog.qmd
 
 format:
   html:
     theme:
-      - pulse
-      - pulse
-      - pulse
+      - sandstone
+      - sandstone
+      - sandstone
     css: styles.css
     toc: true
 
